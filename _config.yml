@@ -5,9 +5,9 @@ baseurl:
 url: https://towlgao.github.io
 date_format: "ordinal"
 title: towl's-blog
-subtitle: "会敲代码的towl"
+subtitle: "会吃gopher的python"
 description: "towl的个人博客"
-keywords: golang,Python,Spider,Django,Flask
+keywords: towl,golang,Python,Spider,Django,Flask
 timezone: Asia/Shanghai
 encoding: "utf-8"
 side_bar_repo_limit: 5
